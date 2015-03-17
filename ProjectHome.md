@@ -1,0 +1,1 @@
+Desarrollado en JAVA. Este analizador léxico permite la definición de alfabetos y la introducción de expresiones regulares y retorna como salida final un AFD con estados mínimos.
